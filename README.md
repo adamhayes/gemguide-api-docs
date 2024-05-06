@@ -133,7 +133,7 @@ The structure for the Diamond route is as follows:
 There are four required arguments:
 
 1. `name`: This is the name of the diamond shape. It is **case sensitive** and must correspond **precisely** to the diamond shape's name in the [GemGuide App](https://app.gemguide.com). Space characters should be escaped as `%20` i.e. `Old%20European`
-2. `weight`: This is the weight of the diamond in carats. **Exception: Baguettes require length instead of carat weight to access pricing.**
+2. `weight`: This is the weight of the diamond in carats. **Exception: Baguettes require length in (mm) size instead of carat weight to access pricing.**
 3. `color`: This is the **case sensitive** color value of the diamond. Colors values are specified as upper-case letters from D-M (i.e, `D`, `E`, `F`, `G`, `H`, `I`, `J`, `K`, `L`, `M`)
 4. `clarity`: This is the **case sensitive** clarity value of the diamond. Clarity values must be one of the following:  `IF/FL`, `VVS1`, `VVS2`, `VS1`, `VS2`, `SI1`, `SI2`, `I1`, `I2`, `I3`
 
