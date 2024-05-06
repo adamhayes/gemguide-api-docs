@@ -4,7 +4,7 @@
 
 This documentation is intended for developers learning how to use the GemGuide Pricing API. 
 
-All of the steps required will be outlined below, but if you would like to see a working example to supplement your understanding, please see the following [repository](https://github.com/lioninteractive/gemguide-api-docs).
+All of the steps required will be outlined below, but if you would like to see a working example to supplement your understanding, please see the following [repository]([https://github.com/adamhayes/gemguide-api-docs]).
 
 ## Setup
 
